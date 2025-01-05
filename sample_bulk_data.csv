@@ -1,0 +1,8 @@
+branch_name,class_name,section_name,teacher_name,student_name
+Branch 1,Class A,Section 1,Teacher 1,Student 1
+Branch 1,Class A,Section 1,Teacher 1,Student 2
+Branch 1,Class A,Section 2,Teacher 2,Student 3
+Branch 1,Class B,Section 1,Teacher 3,Student 4
+Branch 2,Class C,Section 3,Teacher 4,Student 5
+Branch 2,Class C,Section 3,Teacher 4,Student 6
+Branch 2,Class D,Section 4,Teacher 5,Student 7
